@@ -1,5 +1,5 @@
 # MyFaithIsMySword
-Working progress of a multiplayer dice game. Currently, rules below are in french and will be translated in English.
+This personal project is a working progress of a multiplayer dice game. Currently, rules below are in french and will be translated in English.
 
 ### How to start a game ?
 Launch the game.py file.
