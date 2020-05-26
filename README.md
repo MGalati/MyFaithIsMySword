@@ -57,10 +57,10 @@ Devient Héros :
 [1][1][S] ou [2][2][S] ou [3][3][S]
 
 Quand Dieu attaque le village ([x] + [y] = 7), le Héros s'interpose en lançant 1 dé :
-	- [1] 		=> Le Héros est FOUDROYE : Prends 6 et perds son rôle de Héros.
-	- [2] ou [3] 	=> Tout le vilage subit le courroux de Dieu et prends la valeur en jeu.
-	- [4] ou [5]	=> Le Héros protège le village en étant le seul à prendre.
-	- [6] 		=> Dieu prend tout seul et ne distribue rien.
+- [1] 		=> Le Héros est FOUDROYE : Prends 6 et perds son rôle de Héros.
+- [2] ou [3] 	=> Tout le vilage subit le courroux de Dieu et prends la valeur en jeu.
+- [4] ou [5]	=> Le Héros protège le village en étant le seul à prendre.
+- [6] 		=> Dieu prend tout seul et ne distribue rien.
 
 
 #### ---ORACLE---
@@ -102,8 +102,8 @@ Devient Catin :
 [4][1][S]
 
 La Catin s'interpose avant le Héros quand Dieu attaque le Village :
-	- 	    [1] 		: Dieu prend la valeur de son attaque et ne donne rien
-	- [2], [3], [4], [5], [6]	: La catin boit son résultat en gorgées
+- [1] : Dieu prend la valeur de son attaque et ne donne rien
+- [2], [3], [4], [5], [6]	: La catin boit son résultat en gorgées
 
 L'Oracle n'intervient pas sur le lancer de la Catin.
 
